@@ -10,8 +10,8 @@ teacher/service/Impl/DefaultGpsSimulatorFactory.class
 teacher/service/Impl/DefaultPathService$2.class
 teacher/model/Leg.class
 teacher/service/PathService.class
-teacher/model/PositionInfo.class
 teacher/LocationSimulatorApplication.class
+teacher/model/PositionInfo.class
 teacher/model/CurrentPosition.class
 teacher/service/Impl/DefaultPathService$1.class
 teacher/model/ServiceLocation.class
