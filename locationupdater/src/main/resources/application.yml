@@ -1,0 +1,9 @@
+server:
+  port: 8703
+spring:
+  application:
+    name: location-updater
+  cloud:
+    stream:
+      bindings:
+        input: vehicles

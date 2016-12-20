@@ -1,0 +1,9 @@
+teacher/model/VehicleStatus.class
+teacher/model/CurrentPosition.class
+teacher/LocationUpdaterApplication.class
+teacher/model/ServiceLocation.class
+teacher/LocationUpdaterSink.class
+teacher/model/Point.class
+teacher/LocationUpdaterController.class
+teacher/WebSocketConfig.class
+teacher/model/FaultCode.class

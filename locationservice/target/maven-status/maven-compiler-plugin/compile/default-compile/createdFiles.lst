@@ -1,0 +1,9 @@
+teacher/LocationRestController.class
+teacher/Location.class
+teacher/LocationServiceApplication.class
+teacher/FaultCode.class
+teacher/Location$VehicleMovementType.class
+teacher/Location$GpsStatus.class
+teacher/UnitFault.class
+teacher/UnitInfo.class
+teacher/LocationRepository.class

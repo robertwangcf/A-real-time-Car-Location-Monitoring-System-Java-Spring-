@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: location-dashboard
+stomp:
+  url: 173.227.36.82:8703/stomp
+
+zuul:
+  routes:
+    location-service:
+      path: /location-service/**
+      url: http://localhost:8700

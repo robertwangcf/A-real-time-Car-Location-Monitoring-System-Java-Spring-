@@ -1,0 +1,22 @@
+server:
+  port: 8701
+spring:
+  application:
+    name: location-simulator
+gpsSimmulator:
+  googleApiKey: AIzaSyDvdz2cb4zfp8NQVFu4kdzXFoIcHG744I4
+
+com:
+  teacher:
+    location:
+      ingest: http://173.227.36.82:8702
+
+---
+spring:
+  profiles: test
+ribbon:
+  eureka:
+    enabled: false
+fleet-location-ingest:
+  ribbon:
+    listOfServers: localhost:8702
