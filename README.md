@@ -18,7 +18,7 @@ The architecture of the entire project:</br>
 <li>RabbitMQ as message broker.
 </ul>
 <br/>
-Things to do in the next release:</br>
+Things to do in the next release on 01/20/2016:</br>
 1. Fix bug in the front-end: Failed to load vehicle status image.</br>
 2. Apply NGINX to server to increase scalability.</br>
 3. Regression test with Selenium to make sure it's robustness.
